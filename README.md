@@ -172,8 +172,5 @@ GET
 ## Areas to be improved
 
 - Add a database
-- Ability for users to login with password
-- more validation e.g not creating multipe users with same name,
-- unified response
-- HttpStatus errors on error
-- Field validations like valid zip codes, phone number can be improved to cater various formats
+- Field validations e.g valid postcodes, phone number can be improved to cater various formats
+- Service could be dockerized
