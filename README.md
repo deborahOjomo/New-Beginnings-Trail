@@ -169,7 +169,7 @@ GET
 ]
 ```
 
-## Areas to be improved
+## Areas to be improved on
 
 - Add a database
 - Field validations e.g valid postcodes, phone number can be improved to cater various formats
